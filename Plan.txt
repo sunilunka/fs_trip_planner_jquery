@@ -1,0 +1,28 @@
+### In the days
+-> Select the day:
+  -> On Click, need to display the days hotel, restaurants and activities
+  -> Create a way of storing all information for a given a day(object???)
+    -> Object with three keys:
+    dayItinerary:
+      {
+        Hotels: [ array of hotel objects ]
+        Restaurants: same as above
+        Activities: same as above
+
+      }
+
+    -> Need a 'day' object that displays the day that has been selected with all activities etc.
+    -> Change 'Day' displayed on click of 'day selector'. 
+      -> If 'x' is clicked for the Day, then clear all values on object with three keys.
+
+  ## Adding a Day
+
+  -> Need to add a day when the (+) is clicked.
+  -> When the (+) button is clicked on the day indicator, create a new day button with the next number, then generate a blank panel. 
+
+
+### Grab the name of the selected hotel
+-> Then on click (+) add that selected hotel to be under my hotel.
+-> Same for restaurants and activities. 
+
+### 
